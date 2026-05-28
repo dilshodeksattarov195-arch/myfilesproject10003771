@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "routerselete",
+        "uuid": 4634559,
+        "checksum": "o0oo6w"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "production"
+    }
+}
